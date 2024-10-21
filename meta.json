@@ -10,10 +10,12 @@
                 "generic": "https://github.com/drevakisko/moddedserverchecker/releases/tag/Release"
             }}},
 {
-        "id": "2.0.0",
+        "id": "1.0.0",
         "releasedAt": 209384093820,
         "promotions": {
             "downloads": {
-               "generic": "https://github.com/drevakisko/moddedserverchecker/releases/tag/Release"
+                "modrinth": "https://modrinth.com/",
+                "curseforge": "https://curseforge.com/",
+                "generic": "https://example.com/"
             }
-}}}]}
+}}]}
