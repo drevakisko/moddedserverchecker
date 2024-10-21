@@ -1,13 +1,14 @@
 {
   "schemaVersion": 1,
   "hotfixesFormat": null,
+  "updatetype": "incompatible"
   "versions": [
     {
         "id": "2.0.0",
         "releasedAt": 1729536840666,
         "promotions": {
             "downloads": {
-                "generic": "https://drive.google.com/file/d/1V6ISltCnnN4atzEzj6sVUWFVsIZ5-pQK/view?usp=share_link"
+                "generic": "https://github.com/drevakisko/moddedserverchecker/releases/tag/Release"
             }
 }}]}
           
