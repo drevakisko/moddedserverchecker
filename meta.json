@@ -1,7 +1,6 @@
 {
   "schemaVersion": 1,
   "hotfixesFormat": null,
-  "updatetype": "incompatible"
   "versions": [
     {
         "id": "2.0.0",
