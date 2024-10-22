@@ -16,10 +16,11 @@
             "downloads": {
                "generic": "https://github.com/drevakisko/moddedserverchecker/releases/tag/Release"
             }}},
-    {
+{
         "id": "2.0.2",
         "releasedAt": 1729609298598,
         "promotions": {
             "downloads": {
                "generic": "https://github.com/drevakisko/moddedserverchecker/releases/tag/Release"
+              }
 }}]}
